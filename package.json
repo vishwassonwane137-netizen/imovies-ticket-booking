@@ -1,0 +1,29 @@
+{
+  "name": "imovies-movie-ticket-booking",
+  "version": "1.0.0",
+  "description": "IMovies - Movie ticket booking made simple. Built with Node.js, Express, React, and MongoDB architecture.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "movie-ticket-booking",
+    "mern",
+    "react",
+    "express",
+    "nodejs",
+    "jwt",
+    "seat-booking",
+    "cinema"
+  ],
+  "author": "IMovies Developer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.1",
+    "cors": "^2.8.5",
+    "bcryptjs": "^2.4.3"
+  }
+}
