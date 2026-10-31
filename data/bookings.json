@@ -1,0 +1,23 @@
+[
+  {
+    "id": "BK-94821",
+    "userId": "usr-1",
+    "movieId": "mov-1",
+    "movieTitle": "Dune: Part Two",
+    "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+    "theaterName": "PVR Superplex - Forum Mall",
+    "screenName": "Screen 1 - IMAX with Laser",
+    "date": "2026-10-31",
+    "time": "06:30 PM",
+    "format": "IMAX 3D",
+    "seats": ["A1", "A2"],
+    "tier": "platinum",
+    "ticketCount": 2,
+    "unitPrice": 480,
+    "subtotal": 960,
+    "convenienceFee": 76.8,
+    "totalAmount": 1036.8,
+    "bookingTime": "2026-10-31T14:20:00.000Z",
+    "status": "CONFIRMED"
+  }
+]

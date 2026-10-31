@@ -1,0 +1,36 @@
+[
+  {
+    "id": "th-1",
+    "name": "PVR Superplex - Forum Mall",
+    "city": "Bengaluru",
+    "address": "4th Floor, Forum Mall, Koramangala",
+    "screens": [
+      { "id": "scr-101", "name": "Screen 1 - IMAX with Laser", "format": "IMAX 3D", "totalSeats": 96 },
+      { "id": "scr-102", "name": "Screen 2 - Dolby Atmos", "format": "2D / Atmos", "totalSeats": 96 },
+      { "id": "scr-103", "name": "Screen 3 - 4DX Dynamic", "format": "4DX", "totalSeats": 96 }
+    ],
+    "facilities": ["Parking", "Food Court", "Recliner Seats", "Wheelchair Accessible", "M-Ticket"]
+  },
+  {
+    "id": "th-2",
+    "name": "INOX Megaplex - Phoenix MarketCity",
+    "city": "Bengaluru",
+    "address": "Whitefield Main Rd, Devasandra Industrial Estate",
+    "screens": [
+      { "id": "scr-201", "name": "Insignia VIP Screen 1", "format": "Dolby Vision", "totalSeats": 96 },
+      { "id": "scr-202", "name": "Screen 2 - BigPix 4K", "format": "BigPix 3D", "totalSeats": 96 }
+    ],
+    "facilities": ["Gourmet Menu", "Valet Parking", "Recliners", "Dolby Atmos"]
+  },
+  {
+    "id": "th-3",
+    "name": "Cinépolis VIP - Orion Mall",
+    "city": "Bengaluru",
+    "address": "Dr Rajkumar Rd, Rajajinagar",
+    "screens": [
+      { "id": "scr-301", "name": "Screen 1 - Macro XE", "format": "Macro XE 3D", "totalSeats": 96 },
+      { "id": "scr-302", "name": "Screen 2 - RealD", "format": "RealD 3D", "totalSeats": 96 }
+    ],
+    "facilities": ["VIP Lounge", "In-seat Service", "Dolby Atmos", "Luxury Recliners"]
+  }
+]

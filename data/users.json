@@ -1,0 +1,10 @@
+[
+  {
+    "id": "usr-1",
+    "name": "Alex Turner",
+    "email": "demo@imovies.com",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "phone": "+91 98765 43210",
+    "createdAt": "2026-10-25T10:00:00.000Z"
+  }
+]

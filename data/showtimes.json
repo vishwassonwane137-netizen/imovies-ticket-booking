@@ -1,0 +1,134 @@
+[
+  {
+    "id": "st-101",
+    "movieId": "mov-1",
+    "theaterId": "th-1",
+    "screenName": "Screen 1 - IMAX with Laser",
+    "date": "2026-10-31",
+    "time": "10:30 AM",
+    "format": "IMAX 3D",
+    "bookedSeats": ["A5", "A6", "B5", "B6", "D6", "D7", "E4", "E5", "G1", "G2"],
+    "pricing": { "silver": 180, "gold": 280, "platinum": 420 }
+  },
+  {
+    "id": "st-102",
+    "movieId": "mov-1",
+    "theaterId": "th-1",
+    "screenName": "Screen 1 - IMAX with Laser",
+    "date": "2026-10-31",
+    "time": "02:15 PM",
+    "format": "IMAX 3D",
+    "bookedSeats": ["A3", "A4", "C6", "C7", "C8", "F1", "F2", "H5", "H6"],
+    "pricing": { "silver": 180, "gold": 280, "platinum": 420 }
+  },
+  {
+    "id": "st-103",
+    "movieId": "mov-1",
+    "theaterId": "th-1",
+    "screenName": "Screen 1 - IMAX with Laser",
+    "date": "2026-10-31",
+    "time": "06:30 PM",
+    "format": "IMAX 3D",
+    "bookedSeats": ["A1", "A2", "B3", "B4", "C4", "C5", "D5", "D6", "D7", "E5", "E6", "E7", "F6", "F7"],
+    "pricing": { "silver": 200, "gold": 320, "platinum": 480 }
+  },
+  {
+    "id": "st-104",
+    "movieId": "mov-1",
+    "theaterId": "th-2",
+    "screenName": "Insignia VIP Screen 1",
+    "date": "2026-10-31",
+    "time": "04:00 PM",
+    "format": "Dolby Vision Atmos",
+    "bookedSeats": ["A7", "A8", "B1", "B2", "D4", "D5"],
+    "pricing": { "silver": 220, "gold": 340, "platinum": 520 }
+  },
+  {
+    "id": "st-105",
+    "movieId": "mov-1",
+    "theaterId": "th-3",
+    "screenName": "Screen 1 - Macro XE",
+    "date": "2026-10-31",
+    "time": "07:45 PM",
+    "format": "Macro XE 3D",
+    "bookedSeats": ["C3", "C4", "D8", "D9", "G5", "G6"],
+    "pricing": { "silver": 190, "gold": 290, "platinum": 430 }
+  },
+  {
+    "id": "st-201",
+    "movieId": "mov-2",
+    "theaterId": "th-1",
+    "screenName": "Screen 2 - Dolby Atmos",
+    "date": "2026-10-31",
+    "time": "11:00 AM",
+    "format": "2D / Atmos",
+    "bookedSeats": ["B7", "B8", "E6", "E7", "H3", "H4"],
+    "pricing": { "silver": 200, "gold": 300, "platinum": 450 }
+  },
+  {
+    "id": "st-202",
+    "movieId": "mov-2",
+    "theaterId": "th-2",
+    "screenName": "Screen 2 - BigPix 4K",
+    "date": "2026-10-31",
+    "time": "03:30 PM",
+    "format": "BigPix 4K",
+    "bookedSeats": ["A4", "A5", "C5", "C6", "F4", "F5"],
+    "pricing": { "silver": 200, "gold": 300, "platinum": 450 }
+  },
+  {
+    "id": "st-203",
+    "movieId": "mov-2",
+    "theaterId": "th-3",
+    "screenName": "Screen 1 - Macro XE",
+    "date": "2026-10-31",
+    "time": "08:15 PM",
+    "format": "Macro XE 2D",
+    "bookedSeats": ["A2", "A3", "B5", "B6", "D5", "D6", "E7", "E8"],
+    "pricing": { "silver": 220, "gold": 320, "platinum": 480 }
+  },
+  {
+    "id": "st-301",
+    "movieId": "mov-3",
+    "theaterId": "th-1",
+    "screenName": "Screen 3 - 4DX Dynamic",
+    "date": "2026-10-31",
+    "time": "12:15 PM",
+    "format": "4DX 3D",
+    "bookedSeats": ["B4", "B5", "D4", "D5", "G3", "G4"],
+    "pricing": { "silver": 180, "gold": 260, "platinum": 400 }
+  },
+  {
+    "id": "st-302",
+    "movieId": "mov-3",
+    "theaterId": "th-2",
+    "screenName": "Insignia VIP Screen 1",
+    "date": "2026-10-31",
+    "time": "05:00 PM",
+    "format": "Dolby Vision",
+    "bookedSeats": ["C1", "C2", "E3", "E4"],
+    "pricing": { "silver": 190, "gold": 280, "platinum": 420 }
+  },
+  {
+    "id": "st-401",
+    "movieId": "mov-4",
+    "theaterId": "th-1",
+    "screenName": "Screen 1 - IMAX with Laser",
+    "date": "2026-10-31",
+    "time": "09:45 PM",
+    "format": "IMAX 70mm",
+    "bookedSeats": ["A6", "A7", "B6", "B7", "C6", "C7", "D6", "D7"],
+    "pricing": { "silver": 250, "gold": 350, "platinum": 550 }
+  },
+  {
+    "id": "st-501",
+    "movieId": "mov-5",
+    "theaterId": "th-3",
+    "screenName": "Screen 2 - RealD",
+    "date": "2026-10-31",
+    "time": "06:00 PM",
+    "format": "Dolby Atmos",
+    "bookedSeats": ["B3", "B4", "D3", "D4", "F5", "F6"],
+    "pricing": { "silver": 180, "gold": 260, "platinum": 400 }
+  }
+]
